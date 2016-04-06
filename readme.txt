@@ -6,4 +6,8 @@ Creating a new branch is quick.
 Creating a new branch is quick (This is branch ming).
 Creating a new branch is quick and simple.
 minh
+
 test learngit manypeople
+
+test manypeople
+
